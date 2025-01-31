@@ -58,7 +58,7 @@ section {
     margin: 10px;
 }
 
-.number-input {
+.user-input {
     border-radius: 10px;
     height: 2.8rem;
     width: 90%;
@@ -70,8 +70,9 @@ section {
 
 .output-container {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;;
-    font-size: larger;^
-    height: 70%
+    font-size: large;
+    height: 70%;
+    padding: 20px;
 }
 
 .buttons {
